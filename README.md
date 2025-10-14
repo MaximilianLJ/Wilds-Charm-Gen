@@ -9,3 +9,6 @@ Install the .exe file from **[Releases](https://github.com/MaximilianLJ/Wilds-Ch
 ### Credits
 Made by Maximilian Jäger
 Thanks to @Dtlnor for datamined informations
+
+### License
+This project is licensed under the [MIT License](LICENSE).
